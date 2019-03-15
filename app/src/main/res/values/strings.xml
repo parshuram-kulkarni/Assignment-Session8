@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NavigationApplication</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Parshuram Kulkarni </string>
+    <string name="nav_header_subtitle">parshuramkulkarni@globallogic.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <!-- TODO: Remove or change this placeholder text in Navbar options -->
+    <string name="organization_information">Organization Information Select</string>
+    <string name="developer_information">Developer Information Select</string>
+    <string name="setting_information">Setting Select</string>
+    <string name="about">About</string>
+
+    <!-- TODO: Remove or change this placeholder text in  about option -->
+    <string name="applicationVersion"></string>
+    <string name="applicationInformation"></string>
+    <string name="mobileInformation"></string>
+</resources>
